@@ -6,9 +6,8 @@
   // You can echo the variable, similar to the way you would echo a string.
   echo $string;
 
-  // You could also use print.
+
   print $string;
 
-  // Or, if you are familiar with C, printf can be used too.
   printf('%s', $string);
 ?>
